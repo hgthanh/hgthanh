@@ -27,7 +27,7 @@
 
 ## 🛠️ Công nghệ yêu thích
 
-![Python](https://img.shields.io/badge/PHP-3776AB?logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-3776AB?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
