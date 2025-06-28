@@ -4,10 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=PHP+-+Next.js+-+React+-+Node.js;Hoang+Thanh+💗" alt="Typing SVG" />
 </p>
 
-# ---
+---
 
 ### 👨‍👩‍👧‍👧 Kết nối với tôi
-#### - 🌐 Mạng xã hội
+#### • 🌐 Mạng xã hội
 
 <p align="center">
   <a href="https://www.facebook.com/h0oN"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
@@ -18,16 +18,14 @@
   <a href="https://x.com/hgthazh/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 </p>
 
-----
-
-#### - 📬 Contact
+#### • 📬 Contact
 
 <p align="center">
   <a href="mailto:h0angthazh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/hgthazh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-# ---
+---
 
 ### 🛠️ Công nghệ yêu thích
 
@@ -39,7 +37,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   
-# ---
+---
 
 ### 📊 GitHub Stats
 
