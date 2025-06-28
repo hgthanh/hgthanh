@@ -35,6 +35,8 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
+![PHP](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+
 ---
 
 ## 📊 Account Analytics
