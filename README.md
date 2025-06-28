@@ -40,4 +40,6 @@
  
 [![Hits](https://hits.sh/github.com/hgthanh/hgthanh.svg?style=for-the-badge&label=Views&extraCount=4867&color=54856b)](https://hits.sh/github.com/hgthanh/hgthanh/)
 
+
+[![Hits](https://hits.sh/github.com/hgthanh/hgthanh.svg)](https://hits.sh/github.com/hgthanh/hgthanh/)
  
