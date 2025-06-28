@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=PHP+-+Next.js+-+React+-+Node.js;Hoang+Thanh+💗" alt="Typing SVG" />
 </p>
 
----
+# ---
 
 ### 👨‍👩‍👧‍👧 Kết nối với tôi
 #### - 🌐 Mạng xã hội
@@ -27,7 +27,7 @@
   <a href="https://t.me/hgthazh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
----
+# ---
 
 ### 🛠️ Công nghệ yêu thích
 
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   
----
+# ---
 
 ### 📊 GitHub Stats
 
