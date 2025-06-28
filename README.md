@@ -38,8 +38,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgthanh&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
  
-[![Hits](https://hits.sh/github.com/hgthanh/hgthanh.svg?style=for-the-badge&label=Views&extraCount=4867&color=54856b)](https://hits.sh/github.com/hgthanh/hgthanh/)
-
-
 [![Hits](https://hits.sh/github.com/hgthanh/hgthanh.svg)](https://hits.sh/github.com/hgthanh/hgthanh/)
  
