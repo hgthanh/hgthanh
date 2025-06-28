@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍👩‍👧‍👧 Kết nối với tôi
+## 👨‍👩‍👧‍👧 Kết nối với tôi
 #### • 🌐 Mạng xã hội
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Công nghệ yêu thích
+## 🛠️ Công nghệ yêu thích
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -43,7 +43,7 @@
   
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgthanh&layout=compact&theme=dracula" alt="Top Langs" />
