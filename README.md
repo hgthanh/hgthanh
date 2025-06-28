@@ -6,7 +6,8 @@
 
 ---
 
-### 🌐 Mạng xã hội
+### 👨‍👩‍👧‍👧 Kết nối với tôi
+#### 🌐 Mạng xã hội
 
 <p align="center">
   <a href="https://www.facebook.com/h0oN"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
@@ -17,9 +18,9 @@
   <a href="https://x.com/hgthazh/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 </p>
 
----
+----
 
-### 📬 Liên hệ
+#### 📬 Contact
 
 <p align="center">
   <a href="mailto:h0angthazh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
