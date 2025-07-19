@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hi, I'm Thazh!</h1>
+<h1 align="center">🚀 Hi, I'm Thanh!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=PHP+-+Next.js+-+React+-+Node.js;Hoang+Thanh+💗" alt="Typing SVG" />
