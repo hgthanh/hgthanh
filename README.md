@@ -55,3 +55,10 @@
 <p align="center">
   <img src="https://hits.sh/github.com/hgthanh/hgthanh.svg" alt="Hits" />
 </p>
+
+
+---
+
+## Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/956385613962149938?theme=dark&bg=4633ff&animated=true&showDisplayName=true&hideDiscrim=true&borderRadius=30px&idleMessage=Đang%20không%20làm%20gì%20cả)](https://discord.com/users/956385613962149938)
