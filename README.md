@@ -62,3 +62,6 @@
 ## Discord
 
 <a href="https://discord.com/users/956385613962149938"><img src="https://lanyard.cnrad.dev/api/956385613962149938?bg=4633ff&borderRadius=30px&idleMessage=Offline&theme=dark&showDisplayName=true" /></a>
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/956385613962149938?theme=dark&bg=4633ff&animated=true&showDisplayName=true&hideDiscrim=true&borderRadius=30px&idleMessage=Đang%20không%20làm%20gì%20cả)](https://discord.com/users/956385613962149938)
