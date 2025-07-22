@@ -17,7 +17,7 @@
   <a href="https://m.me/h0anggthanhh"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
   <a href="https://www.instagram.com/hgthazh/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@hgthazh/"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
-  <a href="https://x.com/hgthazh/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://x.com/hgthazh/"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
 </p>
 
 
