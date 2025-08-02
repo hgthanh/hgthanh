@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="mailto:h0angthazh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:h0angthazh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white" /></a>
+  <a href="mailto:admin@thazh.is-a.dev"><img src="https://img.shields.io/badge/Zoho_Mail-Gửi_thư_cho_tôi-2487F3?style=flat-square&logo=zoho&logoColor=white" /></a>
   <a href="https://t.me/hgthazh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
