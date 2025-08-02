@@ -26,6 +26,7 @@
 
 <p align="center">
   <a href="mailto:h0angthazh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:h0angthazh@gmail.com"><img src="https://img.shields.io/badge/ZohoMail-D14836?style=for-the-badge&logo=zohomail&logoColor=white" /></a>
   <a href="https://t.me/hgthazh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
