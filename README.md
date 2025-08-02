@@ -64,3 +64,5 @@
 ## Discord
 
 <a href="https://discord.com/users/956385613962149938"><img src="https://lanyard.cnrad.dev/api/956385613962149938?bg=4633ff&borderRadius=30px&idleMessage=Offline&theme=dark&showDisplayName=true" /></a>
+
+http://img.shields.io
