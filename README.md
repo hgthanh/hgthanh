@@ -9,7 +9,7 @@
 ## 👨‍👩‍👧‍👧 Kết nối với tôi
 #### • 🌐 Mạng xã hội
 
-<p align="center">
+<p align="right">
   <a href="https://www.facebook.com/h0oN"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   <a href="https://mastodon.social/@thazh">
   <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
@@ -35,7 +35,7 @@
 
 ## 🛠️ Công nghệ yêu thích
 
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
