@@ -46,6 +46,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/InfinityFree-%2316233A.svg?style=for-the-badge&logo=infinityfree&logoColor=white" /></a>
   
 ---
 
