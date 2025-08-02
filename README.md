@@ -19,6 +19,7 @@
  <a href="https://www.threads.com/hgthazh/"><img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@hgthazh/"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
   <a href="https://x.com/hgthazh/"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://thazh.bsky.social/"><img src="https://img.shields.io/badge/Bluesky-%231DA1F2.svg?style=for-the-badge&logo=Bluesky&logoColor=white" /></a>
 </p>
 
 
@@ -64,5 +65,3 @@
 ## Discord
 
 <a href="https://discord.com/users/956385613962149938"><img src="https://lanyard.cnrad.dev/api/956385613962149938?bg=4633ff&borderRadius=30px&idleMessage=Offline&theme=dark&showDisplayName=true" /></a>
-
-http://img.shields.io
