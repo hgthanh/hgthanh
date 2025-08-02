@@ -9,7 +9,7 @@
 ## 👨‍👩‍👧‍👧 Kết nối với tôi
 #### • 🌐 Mạng xã hội
 
-<p align="right">
+<p align="bottom">
   <a href="https://www.facebook.com/h0oN"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   <a href="https://mastodon.social/@thazh">
   <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
